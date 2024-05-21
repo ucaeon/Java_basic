@@ -5,19 +5,24 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5449828d-0b0c-4e7e-95e3-01fa0565c2e4" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart3.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart4.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ClassStart5.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MoviePractice.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReview.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/MovieReviewMain2.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/ProductOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/class1/ex/ProductOrderMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/BigData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Data.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/InitData.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/InitMain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Method1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Method2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/MethodChange1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/MethodChange2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/NullMain4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/Student.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/VarChange1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/VarChange2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrder.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/ref/ex/ProductOrderMain3.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -54,6 +59,8 @@
     "Application.ClassStart2.executor": "Run",
     "Application.ClassStart3.executor": "Run",
     "Application.MovieReviewMain1.executor": "Run",
+    "Application.ProductOrderMain.executor": "Run",
+    "Application.ProductOrderMain3.executor": "Run",
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
@@ -87,7 +94,7 @@
       <option name="presentableId" value="Default" />
       <updated>1716264877532</updated>
       <workItem from="1716264878706" duration="300000" />
-      <workItem from="1716271380923" duration="5079000" />
+      <workItem from="1716271380923" duration="6400000" />
     </task>
     <servers />
   </component>
